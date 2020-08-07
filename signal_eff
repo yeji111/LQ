@@ -1,0 +1,7 @@
+ngleMuon Trigger: pass=621        all=1000       -- eff=62.10 % cumulative eff=62.10 %
+Muon Selection: pass=525        all=621        -- eff=84.54 % cumulative eff=52.50 %
+Jet Selection: pass=382        all=525        -- eff=72.76 % cumulative eff=38.20 %
+bJet Selection: pass=238        all=382        -- eff=62.30 % cumulative eff=23.80 %
+cJet Selection: pass=197        all=238        -- eff=82.77 % cumulative eff=19.70 %
+
+

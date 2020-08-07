@@ -1,0 +1,12 @@
+ingleMuon Trigger: pass=404        all=1000       -- eff=40.40 % cumulative eff=40.40 %
+Muon Selection: pass=350        all=404        -- eff=86.63 % cumulative eff=35.00 %
+Jet Selection: pass=179        all=350        -- eff=51.14 % cumulative eff=17.90 %
+bJet Selection: pass=74         all=179        -- eff=41.34 % cumulative eff=7.40 %
+cJet Selection: pass=51         all=74         -- eff=68.92 % cumulative eff=5.10 %
+
+SingleMuon Trigger: pass=1197       all=3000       -- eff=39.90 % cumulative eff=39.90 %
+Muon Selection: pass=1028       all=1197       -- eff=85.88 % cumulative eff=34.27 %
+Jet Selection: pass=494        all=1028       -- eff=48.05 % cumulative eff=16.47 %
+bJet Selection: pass=449        all=494        -- eff=90.89 % cumulative eff=14.97 %
+cJet Selection: pass=308        all=449        -- eff=68.60 % cumulative eff=10.27 %
+
